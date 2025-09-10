@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>This is stuff</div>;
+  return <div>This is stuff that has been updated</div>;
 }
